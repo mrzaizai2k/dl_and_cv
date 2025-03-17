@@ -2,3 +2,5 @@
 /hello.py
 /models
 /transfer_learning_tutorial.ipynb
+*.png
+*.jpg
